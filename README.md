@@ -10,3 +10,5 @@ daí o alfabeto fica: ['a','b']
 por ex.
 
 porém ele repete as letras e tal
+
+ele nao vai funciona ainda
